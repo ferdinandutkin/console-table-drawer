@@ -1,0 +1,13 @@
+ipch/
+
+.vs/
+
+Debug/
+
+Release/
+
+*.filters
+
+*.db
+
+*.opendb
